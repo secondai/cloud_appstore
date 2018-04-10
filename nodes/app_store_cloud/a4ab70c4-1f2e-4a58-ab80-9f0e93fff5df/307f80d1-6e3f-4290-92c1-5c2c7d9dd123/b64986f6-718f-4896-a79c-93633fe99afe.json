@@ -1,0 +1,7 @@
+{
+  "type": "simple_compare:0.0.1:local:298fy38y283",
+  "name": "b64986f6-718f-4896-a79c-93633fe99afe",
+  "data": {
+    "code": "(()=>{\n  \n  // has childNode of correct type! \n  return INPUT.data.inputNode;\n  \n})()"
+  }
+}
