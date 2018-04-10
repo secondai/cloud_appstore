@@ -1,0 +1,7 @@
+{
+  "type": "text_tag:0.0.1:local:239fj23",
+  "name": "b588ffc6-5f8e-4514-bbdd-f0a168e76583",
+  "data": {
+    "text": "ACTION: adds ExternalIdentity to requestsCache, according to the token that is passed in"
+  }
+}

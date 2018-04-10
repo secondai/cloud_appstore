@@ -1,0 +1,7 @@
+{
+  "type": "incoming_query_type_matcher:0.0.1:local:3242rx23rd3",
+  "name": "97cbdef6-339b-4e85-9674-4d586b8916af",
+  "data": {
+    "typeMatch": "cloud_startup:0.0.1:local:98h198hf32"
+  }
+}
