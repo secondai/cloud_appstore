@@ -1,7 +1,0 @@
-{
-  "type": "incoming_query_type_matcher:0.0.1:local:3242rx23rd3",
-  "name": "da7b745b-3091-436c-9d2e-2f319dc4cd74",
-  "data": {
-    "typeMatch": "run_action:0.0.1:local:2398y294c23"
-  }
-}
