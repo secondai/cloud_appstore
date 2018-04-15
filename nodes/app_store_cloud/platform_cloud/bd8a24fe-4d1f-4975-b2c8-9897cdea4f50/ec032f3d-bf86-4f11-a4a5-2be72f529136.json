@@ -1,7 +1,0 @@
-{
-  "type": "text_tag:0.0.1:local:239fj23",
-  "name": "ec032f3d-bf86-4f11-a4a5-2be72f529136",
-  "data": {
-    "text": "ACTION: return a signed url to download a file from s3"
-  }
-}
