@@ -3,7 +3,6 @@
   "name": "incoming_route_handler_second",
   "data": {
     "level": 0,
-    "route": "/ai",
     "routes": [
       "/ai"
     ]

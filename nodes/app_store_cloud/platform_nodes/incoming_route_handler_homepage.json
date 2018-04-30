@@ -3,7 +3,6 @@
   "name": "incoming_route_handler_homepage",
   "data": {
     "level": 5,
-    "route": "/site1",
     "routes": [
       "/",
       "/site1"
