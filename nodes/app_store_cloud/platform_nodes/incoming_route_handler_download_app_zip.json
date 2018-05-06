@@ -1,0 +1,10 @@
+{
+  "type": "incoming_route_handler:Qmsdfkj329j3",
+  "name": "incoming_route_handler_download_app_zip",
+  "data": {
+    "level": 5,
+    "routes": [
+      "/appzip"
+    ]
+  }
+}
