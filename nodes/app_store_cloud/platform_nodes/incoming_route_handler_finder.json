@@ -4,7 +4,8 @@
   "data": {
     "level": 5,
     "routes": [
-      "/finder"
+      "/finder",
+      "/metadatas"
     ]
   }
 }
