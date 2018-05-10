@@ -5,7 +5,8 @@
     "level": 5,
     "routes": [
       "/finder",
-      "/metadatas"
+      "/metadatas",
+      "/metadatas/*else"
     ]
   }
 }
