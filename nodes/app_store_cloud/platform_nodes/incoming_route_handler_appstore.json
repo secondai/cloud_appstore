@@ -2,7 +2,7 @@
   "type": "incoming_route_handler:Qmsdfkj329j3",
   "name": "incoming_route_handler_appstore",
   "data": {
-    "level": 5,
+    "priority": 5,
     "routes": [
       "/store"
     ]

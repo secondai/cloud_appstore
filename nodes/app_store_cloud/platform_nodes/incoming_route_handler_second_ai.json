@@ -1,8 +1,9 @@
 {
   "type": "incoming_route_handler:Qmsdfkj329j3",
-  "name": "incoming_route_handler_second",
+  "name": "incoming_route_handler_second_ai",
   "data": {
-    "level": 0,
+    "ai": true,
+    "priority": 0,
     "routes": [
       "/ai"
     ]
