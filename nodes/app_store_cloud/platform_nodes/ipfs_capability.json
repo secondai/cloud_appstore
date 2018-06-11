@@ -1,0 +1,8 @@
+{
+  "type": "capability:0.0.1:local:187h78h23",
+  "name": "ipfs_capability",
+  "data": {
+    "key": "IPFS",
+    "version": "1.0.0"
+  }
+}
