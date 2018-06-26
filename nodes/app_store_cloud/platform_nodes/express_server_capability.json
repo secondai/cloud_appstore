@@ -1,0 +1,8 @@
+{
+  "type": "capability:0.0.1:local:187h78h23",
+  "name": "express_server_capability",
+  "data": {
+    "version": "1.0.0",
+    "key": "ExpressServer"
+  }
+}
