@@ -1,0 +1,8 @@
+{
+  "type": "code:0.0.1:local:32498h32f2",
+  "name": "code",
+  "data": {
+    "code": "(()=>{\n  return new Promise(async (resolve, reject)=>{\n    try {\n      \n      // input contains file and \"should also pin\" value \n      \n      \n      let ipfsPinsetResult = await universe.loadAndRunCapability('IPFS',{},{\n        type: 'standard_capability_action:0.0.1:local:298j291bs',\n        data: {\n          action: 'file.add',\n          options: {\n            type: 'file_as_string_with_options:Qmfl2kjf23slfj',\n            data: {\n              options: INPUT.data.data.options,\n              fileValue: INPUT.data.data.fileValue\n            }\n          }\n        }\n      });\n      \n      // Also\n      \n      \n      let requestIndex = INPUT.requestIndex;\n      await universe.setRequestCacheKeyValue('request' + requestIndex, ipfsPinsetResult);\n      \n      return resolve(ipfsPinsetResult);\n      \n    }catch(err){\n      resolve({ERROR: true, err: err.toString()});\n    }\n    \n    \n  })\n})()",
+    "key": "7090f3d5-3b0b-4c8f-9e44-c01ebf7da87f"
+  }
+}
