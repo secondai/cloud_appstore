@@ -5,7 +5,9 @@
     "priority": 5,
     "routes": [
       "/launch",
-      "/cloud"
+      "/launch/*any",
+      "/cloud",
+      "/cloud/*any"
     ]
   }
 }
