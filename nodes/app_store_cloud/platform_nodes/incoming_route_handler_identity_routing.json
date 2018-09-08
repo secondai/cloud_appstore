@@ -1,0 +1,11 @@
+{
+  "type": "incoming_route_handler:Qmsdfkj329j3",
+  "name": "incoming_route_handler_identity_routing",
+  "data": {
+    "priority": 5,
+    "routes": [
+      "/identity",
+      "/identity/*any"
+    ]
+  }
+}
