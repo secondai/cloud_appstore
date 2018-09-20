@@ -1,9 +1,10 @@
 {
   "type": "heartbeat_task:Qmsfj032fjslfdk",
-  "name": "task_ipfs_runner",
+  "name": "task_ipfs_hourly_restarter",
   "data": {
     "priority": 10,
     "repeat": true,
-    "cron": "*/60 * * * * *"
+    "cron": "0 0 */1 * * *",
+    "time_english": "every hour"
   }
 }
