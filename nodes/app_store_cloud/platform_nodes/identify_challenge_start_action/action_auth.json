@@ -1,0 +1,7 @@
+{
+  "type": "action_auth:Qm3289f32",
+  "name": "action_auth",
+  "data": {
+    "defaultInternalRootRoleRequired": false
+  }
+}
