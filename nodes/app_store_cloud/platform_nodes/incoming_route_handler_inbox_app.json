@@ -1,0 +1,11 @@
+{
+  "type": "incoming_route_handler:Qmsdfkj329j3",
+  "name": "incoming_route_handler_inbox_app",
+  "data": {
+    "priority": 5,
+    "routes": [
+      "/inbox_app",
+      "/inbox_app/*any"
+    ]
+  }
+}
