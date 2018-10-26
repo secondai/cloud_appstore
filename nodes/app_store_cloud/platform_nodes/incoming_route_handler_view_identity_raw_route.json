@@ -4,7 +4,7 @@
   "data": {
     "priority": 5,
     "routes": [
-      "/raw/second://*any"
+      "/raw/*any"
     ]
   }
 }

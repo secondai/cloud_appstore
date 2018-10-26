@@ -4,8 +4,8 @@
   "data": {
     "priority": 5,
     "routes": [
-      "/html/second://*any",
-      "/view/second://*any"
+      "/html/*any",
+      "/view/*any"
     ]
   }
 }
